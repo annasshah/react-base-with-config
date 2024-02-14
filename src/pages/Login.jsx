@@ -41,7 +41,7 @@ const Login = () => {
 
                 <div className='col-span-2'>
                     <Custom_Button type='submit' >
-                        Signup
+                        Login
                     </Custom_Button>
                 </div>
 
